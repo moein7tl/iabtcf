@@ -82,7 +82,7 @@
     "vue-template-compiler": "^2.6.10",
     "vue-ts-plugin": "^0.1.0",
     "webpack": "^4.41.2",
-    "webpack-cli": "^3.3.10",
+    "webpack-cli": "^3.3.11",
     "webpack-dev-server": "^3.9.0"
   }
 }
